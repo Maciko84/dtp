@@ -1,0 +1,4 @@
+.npmignore
+src
+dtp.min.js
+node_modules/

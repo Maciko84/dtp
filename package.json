@@ -1,0 +1,15 @@
+{
+  "name": "dtp",
+  "version": "1.0.0",
+  "description": "A framework for creating DTP (DOM Transfer Protocol) servers.",
+  "main": "dist/index.js",
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "scripts": {
+    "build": "tsc --outDir dist"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.12"
+  }
+}
