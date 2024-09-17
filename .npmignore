@@ -1,4 +1,6 @@
 .npmignore
 src
 dtp.min.js
+dtp.js
+.gitignore
 node_modules/
