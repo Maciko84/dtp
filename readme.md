@@ -4,7 +4,7 @@ DTP (DOM Transfer Protocol) is a simple protocol based on WebSocket that allows 
 ## Setting Up The Front End
 Firstly, import the DTP frontend api:
 ```html
-<script type="text/javascript" src=""></script>
+<script type="text/javascript" src="https://raw.githubusercontent.com/Maciko84/dtp/main/dtp.min.js"></script>
 ```
 
 after that, connect an div / the body using the dtp function:
